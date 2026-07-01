@@ -7,7 +7,7 @@ Affiche des tirages de tarot révolutionnaire dans le terminal — inspiré des 
 ![Python](https://img.shields.io/badge/python-3.x-blue?style=flat-square&logo=python)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey?style=flat-square&logo=linux)
 ![Terminal](https://img.shields.io/badge/terminal-bash%20%7C%20zsh%20%7C%20fish-black?style=flat-square)
-![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)
+![Contributions](https://img.shields.io/badge/contributions-closed-black?style=flat-square)
 
 ---
 
