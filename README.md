@@ -1,6 +1,6 @@
 # `rtarot`
 
-Affiche des tirages de tarot révolutionnaire dans le terminal — inspiré des symboles et archétypes des mouvements sociaux, politiques et spirituels.
+Affiche des tirages de tarot révolutionnaire dans le terminal — inspiré des symboles et archétypes des mouvements sociaux et politiques.
 
 ![Langue](https://img.shields.io/badge/Langue-Français-blue.svg)
 ![Licence](https://img.shields.io/badge/licence-GPL--3.0-red?style=flat-square)
